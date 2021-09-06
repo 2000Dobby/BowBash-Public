@@ -5,5 +5,5 @@ That´s basically it. We´re trying to recreate the old Dustmc feel of BowBash, 
 
 This Repo is just for Issue-Tracking and posting the releases on GitHub
 
-# Need Help?
-Go [here](https://github.com/2000Dobby/BowBash-Public/wiki) for a turorial and how to play BowBash
+# How does it work?
+Go [here](https://github.com/2000Dobby/BowBash-Public/wiki) for a detailed explanation and turorial on how to set it up.
